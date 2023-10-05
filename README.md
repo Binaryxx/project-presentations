@@ -12,7 +12,7 @@ A repository to store copies of presentations for the personal projects complete
   * Provide up-to-date summaries of the competittive scene in Street Fighter 6  
 <br>
     
-<ins>SF6 Rank Distribution Explorer: Rank Web Scraper and Visualizer  
+<ins>Valorant Meta Analysis Series  
 
 WORK IN PROGRESS: Needs code revisions for professional presentation and readability; A draft of the basic information of the project provided; The project is fully functional    
 *The Jupyter Notebook can be found in Binaryxx/valorant-project (https://github.com/Binaryxx/valorant-project)*  
