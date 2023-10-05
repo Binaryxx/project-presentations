@@ -14,7 +14,7 @@ A repository to store copies of presentations for the personal projects complete
     
 <ins>SF6 Rank Distribution Explorer: Rank Web Scraper and Visualizer  
 
-WORK IN PROGRESS: Needs code revisions for professional presentation and readability; A draft of the basic information of the project provided  
+WORK IN PROGRESS: Needs code revisions for professional presentation and readability; A draft of the basic information of the project provided; The project is fully functional    
 *The Jupyter Notebook can be found in Binaryxx/valorant-project (https://github.com/Binaryxx/valorant-project)*  
 - Use the unofficial Valorant API created by Henrik-3 to collect the data about agent pick rate, agent win rate, player rank, and player performance (win rate, headshot rate, utility usage, Kill/Death/Assist Ratio)   
   * Collect the necessary data to complete project ideas  
