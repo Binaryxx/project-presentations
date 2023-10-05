@@ -1,14 +1,16 @@
 # project_presentations  
 A repository to store copies of presentations for the personal projects completed. Centralized location to refer recruiters and employers to provide an overview in coding experience. The README file will reference the projects' repository names as well as a high level description of the project.  
+<br>
   
 **Project List:**  
+<br>
   
 <ins>SF6 Rank Distribution Explorer: Rank Web Scraper and Visualizer  
 
 *The Jupyter Notebook can be found in Binaryxx/sf6-rank_distribution-explorer (https://github.com/Binaryxx/sf6-rank-distribution-explorer)*  
 - Web scrapes the official Street Fighter 6 website for data on the player count for each rank; Visualizes the trends and patterns recorded  
   * Provide up-to-date summaries of the competittive scene in Street Fighter 6  
-
+<br>
     
 <ins>SF6 Rank Distribution Explorer: Rank Web Scraper and Visualizer  
 
