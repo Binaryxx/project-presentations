@@ -4,12 +4,14 @@ A repository to store copies of presentations for the personal projects complete
 **Project List:**  
   
 <ins>SF6 Rank Distribution Explorer: Rank Web Scraper and Visualizer  
+
 *The Jupyter Notebook can be found in Binaryxx/sf6-rank_distribution-explorer (https://github.com/Binaryxx/sf6-rank-distribution-explorer)*  
 - Web scrapes the official Street Fighter 6 website for data on the player count for each rank; Visualizes the trends and patterns recorded  
   * Provide up-to-date summaries of the competittive scene in Street Fighter 6  
 
     
 <ins>SF6 Rank Distribution Explorer: Rank Web Scraper and Visualizer  
+
 WORK IN PROGRESS: Needs code revisions for professional presentation and readability; A draft of the basic information of the project provided  
 *The Jupyter Notebook can be found in Binaryxx/valorant-project (https://github.com/Binaryxx/valorant-project)*  
 - Use the unofficial Valorant API created by Henrik-3 to collect the data about agent pick rate, agent win rate, player rank, and player performance (win rate, headshot rate, utility usage, Kill/Death/Assist Ratio)   
