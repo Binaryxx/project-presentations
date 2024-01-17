@@ -31,4 +31,12 @@ WORK IN PROGRESS: Needs code revisions for professional presentation and readabi
 - Create a script which provides the most prevalent team composition in each map  
   * Presents the most common combination of agents selected per map by professional players, thus hinting the most effective strategy in playing the map (each agent has a set of skills which serves a certain purpose)  
 - Create a script which identifies the most prevalent "controller" agent in each map  
-  * Learn the "controller" agent to pick for each map  
+  * Learn the "controller" agent to pick for each map
+
+<ins>Winning the Space Race through Data Science  
+  
+DISCLAIMER: This project was completed as part of the Coursera Certification Course: IBM Data Science Professional
+*The Jupyter Notebook can be found in Binaryxx/coursera-capstone-project (https://github.com/Binaryxx/coursera-capstone-project)*  
+- Determines whether SpaceX will be able to successfully land and reuse the engine used for a rocket launch; A successful reuse allows the company to enjoy savings from not having to rebuild a rocket and pass on the savings as competitively low contract pricings
+  * Used Logistic Regression, SVM, KNN, and Decision Trees to classify whether a launch will have a successful rocket landing for retrieval based on characteristics such as rocket mass, launch location, rocket orbit trajectory
+  * Collected data from SpaceX's API and through webscraping, wrangled data, performed EDA, created interactive visualizations
